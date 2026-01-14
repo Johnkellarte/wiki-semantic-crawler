@@ -6,9 +6,10 @@ import requests
 
 
 class WikiSemanticCrawler:
-    def __init__(self, start: str, end: str) -> None:
+    def __init__(self, start: str, end: str, weighing_factor: float = 0.1) -> None:
         self.start = start
         self.end = end
+        self.weighing_factor = weighing_factor
 
         self._embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
         self._query_embedding = self._embedding_model.encode(self.end[30:], normalize_embeddings=True)
@@ -68,4 +69,5 @@ class WikiSemanticCrawler:
 
             for i, word in enumerate(words):
                 url = links[i]
-                heapq.heappush(max_heap, (-similarities[i], url, path + [word]))
+                cost = len(path) * self.weighing_factor
+                heapq.heappush(max_heap, (-similarities[i] + cost, url, path + [word]))
